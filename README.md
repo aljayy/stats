@@ -25,12 +25,12 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](/images/stats-desktop-preview.png)
-![Mobile](/images/stats-mobile-preview1.png)
-![Mobile](/images/stats-mobile-preview2.png)
+![Mobile1](/images/stats-mobile-preview1.png)
+![Mobile2](/images/stats-mobile-preview2.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://aljayy.github.io/stats/)
+- Live Site URL: [https://aljayy.github.io/stats/]
 
 ## My process
 
@@ -65,5 +65,3 @@ Another area is in pseudo selectors, as I used the ::after selector to create an
 ## Author
 
 Thank you for taking the time to read this.
-
-- Website - [Alan Jimenez](https://aljayy.github.io/stats/)
